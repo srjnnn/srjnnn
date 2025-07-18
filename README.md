@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srjnnn" alt="srjnnn" /></a> </p>
 
-- 🔭 I’m currently working on [phishnet](phishnet.srijankharel.com.np)
+- 🔭 I’m currently working on [phishnet](PhishNet-Nepal)
 
 - 👨‍💻 All of my projects are available at [srijankharel.com.np](srijankharel.com.np)[yet to be hosted]
 
