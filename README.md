@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [phishnet](PhishNet-Nepal)
 
-- 👨‍💻 All of my projects are available at [srijankharel.com.np](srijankharel.com.np) [yet to be hosted]
+- 👨‍💻 All of my projects are available at [srijankharel.com.np](srijankharel.com.np)
 
 - 💬 Ask me about **react**
 
