@@ -9,6 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [srijankharel.com.np](https://www.srijankharel.com.np)
 
+<h3 align="left">Check out my blogs:</h3>
+<p align="left">
+  <a href="https://blogs.srijankharel.com.np/" target="_blank" rel="noopener noreferrer">https://blogs.srijankharel.com.np/</a>
+</p>
+
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **mrsrjn224@gmail.com**
@@ -43,7 +48,4 @@
 
 ---
 
-<h3 align="left">Check out my blogs:</h3>
-<p align="left">
-  <a href="https://blogs.srijankharel.com.np/" target="_blank" rel="noopener noreferrer">https://blogs.srijankharel.com.np/</a>
-</p>
+
