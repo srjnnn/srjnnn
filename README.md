@@ -103,7 +103,6 @@
 </p>
 
 <div align="center">
-  <br>
   <img src="https://github.com/srjnnn/srjnnn/blob/main/assets/line.svg" width="300"/>
   <p><i>"Building for tomorrow, one line of code at a time."</i></p>
 </div>
