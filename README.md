@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 <table>
   <tr>
@@ -36,7 +36,7 @@
 
 ---
 
-## 🧠 Tech Stack  
+##  Tech Stack  
 
 ### 💻 Core Development  
 <p align="center">
@@ -55,13 +55,13 @@
 
 ---
 
-## 🧩 Featured Projects  
+##  Featured Projects  
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | 🏫 **School Management System** | A full-featured app for student data, attendance, and internal operations. | MERN Stack + Firebase |
 | 🩸 **Blood 4 U (Hackathon)** | Connects donors, NGOs, and patients in real time to streamline blood donations. | React + Node.js + Express |
-| 🧠 **CyberSecurity Awareness Platform** | Educates users about online threats with gamified modules. | Next.js + MongoDB |
+| 🧠 **CyberSecurity Awareness Platform (Phishnet)** | Educates users about online threats with gamified modules. | Next.js + MongoDB |
 
 ---
 
