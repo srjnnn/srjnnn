@@ -99,7 +99,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/srijan-kharel-b0b36033a"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
   <a href="https://instagram.com/kharel_srijan"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
-  <a href="https://fb.com/srijan.kharel.2025"><img src="https://skillicons.dev/icons?i=facebook" width="48"/></a>
+  <a href="https://fb.com/srijan.kharel.2025"><img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="48"/></a>
 </p>
 
 <div align="center">
