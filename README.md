@@ -23,7 +23,7 @@
         <li>💡 Passionate about <strong>scalable architectures</strong> and <strong>human-centered software</strong>.</li>
         <li>👨‍💻 Check out my portfolio at <a href="https://www.srijankharel.com.np">srijankharel.com.np</a>.</li>
         <li>💬 Let’s discuss <strong>React, Node.js, or product design strategy</strong>.</li>
-        <li>📫 Contact: <strong>mrsrjn224@gmail.com</strong></li>
+        <li>📫 Contact: <strong>contact@srijankharel.com.np</strong></li>
       </ul>
     </td>
     <td align="center">
