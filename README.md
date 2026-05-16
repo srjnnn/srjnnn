@@ -19,6 +19,7 @@
   <tr>
     <td width="55%">
       <ul>
+        <li>🏆 <strong>Hackathon Winner:</strong> Led Team NepDev to win the <strong>Telemedicine & Health Tech Theme Award</strong> and the <strong>Great Social Impact Award</strong> at the PUBG National Hackathon 2025 (organized by DAJ).</li>
         <li>🔭 Currently <strong>deep diving into Java & backend systems</strong>.</li>
         <li>💡 Passionate about <strong>scalable architectures</strong> and <strong>human-centered software</strong>.</li>
         <li>👨‍💻 Check out my portfolio at <a href="https://www.srijankharel.com.np">srijankharel.com.np</a>.</li>
@@ -59,6 +60,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
+| 🏥 **Mero Sathi (मेरो साथी)** | **[Hackathon Winner]** Mental health support & telemedicine platform in Nepal featuring anonymous secure VOIP calling and AI well-being assessments. Developed as Team Lead & Project Manager. | React.js + Node.js + Supabase + WebRTC |
 | 🏫 **School Management System** | A full-featured app for student data, attendance, and internal operations. | MERN Stack + Firebase |
 | 🩸 **Blood 4 U (Hackathon)** | Connects donors, NGOs, and patients in real time to streamline blood donations. | React + Node.js + Express |
 | 🧠 **CyberSecurity Awareness Platform (Phishnet)** | Educates users about online threats with gamified modules. | Next.js + MongoDB |
