@@ -19,7 +19,7 @@
   <tr>
     <td width="55%">
       <ul>
-        <li>🏆 <strong>Hackathon Winner:</strong> Led Team NepDev to win the <strong>Telemedicine & Health Tech Theme Award</strong> and the <strong>Great Social Impact Award</strong> at the PUBG National Hackathon 2025 (organized by DAJ).</li>
+        <li>🏆 <strong>Hackathon Winner:</strong> Led Team NepDev to win the <strong>Telemedicine & Health Tech Theme Award</strong> and the <strong>Great Social Impact Award</strong> at the PUBG National Hackathon 2025 (organized by DAJ) (https://qualitycomputer.com.np/blog/latest-tech-blogs-in-nepal-1/pubg-x-daj-hackathon-in-jhapa-166) .</li>
         <li>🔭 Currently <strong>deep diving into Java & backend systems</strong>.</li>
         <li>💡 Passionate about <strong>scalable architectures</strong> and <strong>human-centered software</strong>.</li>
         <li>👨‍💻 Check out my portfolio at <a href="https://www.srijankharel.com.np">srijankharel.com.np</a>.</li>
